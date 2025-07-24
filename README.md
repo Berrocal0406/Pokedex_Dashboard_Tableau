@@ -3,7 +3,7 @@
 ## 🎯 Descripción del Proyecto
 Dashboard interactivo desarrollado en **Tableau Public** que analiza datos de Pokémon de la primera generación, enfocado en visualización de datos y análisis de efectividad de combate.
 
-### 🔗 [Ver Dashboard en Tableau Public](TU_LINK_AQUI)
+### 🔗 [Ver Dashboard en Tableau Public](https://public.tableau.com/views/PokemonDashboard-InteractiveDataAnalysis/Pokemon_Dashboard_Overview?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📈 Funcionalidades Principales
 
