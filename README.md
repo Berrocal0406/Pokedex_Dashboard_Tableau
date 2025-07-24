@@ -72,10 +72,10 @@ ELSE 4 END
 
 ## 🚀 Cómo Usar el Dashboard
 
-1- Explorar tipos: Clic en burbujas de tipos para filtrar
-2- Comparar Pokémon: Seleccionar nombres en dropdown para tarjetas
-3- Análisis avanzado: Usar segunda hoja para insights de combate
-4- Interactividad: Todos los filtros están conectados entre visualizaciones
+1. Explorar tipos: Clic en burbujas de tipos para filtrar
+2. Comparar Pokémon: Seleccionar nombres en dropdown para tarjetas
+3. Análisis avanzado: Usar segunda hoja para insights de combate
+4. Interactividad: Todos los filtros están conectados entre visualizaciones
 
 ## 📝 Créditos y Aprendizaje
 
