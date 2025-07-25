@@ -28,6 +28,21 @@ Dashboard interactivo desarrollado en **Tableau Public** que analiza datos de Po
   - `Battle Effectiveness`: Ratio ofensivo/defensivo
 - **Codificación visual**: Tamaño por poder total, color por tipo
 - **Tooltip interactivo**: Información detallada al hover
+### ¿Por qué estas métricas?
+1. Total Battle Score: Representa el "poder general" del Pokémon.  
+Suma todas las stats → Pokémon más completos tienen scores altos
+
+2. Offensive Index: Capacidad de hacer daño.  
+Promedio de ataques → Mide potencial ofensivo real
+
+3. Defensive Index: Capacidad de resistir daño.  
+(Defense + Sp.Defense + HP) / 3 → HP cuenta igual que defensas porque son puntos de vida
+
+4. Battle Effectiveness: ¿Qué tan "roto" está el Pokémon?.  
+Ofensivo/Defensivo → Ratios altos = glass cannons, ratios bajos = tanques
+
+5. Type Ranking: Jerarquía competitiva.  
+Dragon/Psychic dominaban Gen 1 → Fire era top tier → Resto normal
 ![pic4](pic4.png)
 
 ## 🛠️ Habilidades Técnicas Aplicadas
